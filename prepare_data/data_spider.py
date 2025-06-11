@@ -1,7 +1,5 @@
 # coding: utf-8
 
-
-
 import urllib.request
 import urllib.parse
 from lxml import etree
